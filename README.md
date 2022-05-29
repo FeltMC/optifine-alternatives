@@ -106,8 +106,6 @@ You can contribute to this list by opening a pull request on the `data` branch v
   - Available for: 1.16 -> 1.18  
 - [Dark Loading Screen] - A simple mod to make the loading screen darker.  
   - Available for: 1.15 -> 1.18  
-- [Quilt Loading Screen] - A loading screen based off of The Quilt Community's server banner.  
-  - Available for: 1.16 -> 1.18  
 - [Splash] - Splash is a Fabric mod that allows you to customize the colors of your splash screen.  
   - Available for: 1.16 -> 1.17  
 
@@ -191,7 +189,6 @@ You can contribute to this list by opening a pull request on the `data` branch v
 [Varied Mob Textures]: https://curseforge.com/minecraft/mc-mods/varied-mob-textures "Varied Mob Textures CurseForge page"
 [Custom Splash Screen]: https://curseforge.com/minecraft/mc-mods/custom-splash-screen "Custom Splash Screen CurseForge page"
 [Dark Loading Screen]: https://curseforge.com/minecraft/mc-mods/dark-loading-screen "Dark Loading Screen CurseForge page"
-[Quilt Loading Screen]: https://modrinth.com/mod/quilt-loading-screen "Quilt Loading Screen Modrinth page"
 [Splash]: https://curseforge.com/minecraft/mc-mods/splash "Splash CurseForge page"
 [Canvas Renderer]: https://curseforge.com/minecraft/mc-mods/canvas-renderer "Canvas Renderer CurseForge page"
 [Iris]: https://curseforge.com/minecraft/mc-mods/irisshaders "Iris CurseForge page"
