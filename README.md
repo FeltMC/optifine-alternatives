@@ -13,18 +13,16 @@ In the modern Minecraft era, with Fabric's community effort, modders have begun 
 
 ## This list
 
-This list will list recommended OptiFine alternatives by me (LambdAurora), so it has some requirements for mods to be listed here:
+This list will list recommended OptiFine alternatives by LambdAurora (and edited by PseudoDistant), so it has some requirements for mods to be listed here:
  - They must be publicly available, if it's only accessible through Discord they are not eligible.
  - Mods must respect the Minecraft's EULA.
  - Mods must not refer to a cheat client.
  - Mods that change gameplay in a way (e.g. zoom) that have a way for servers to disable them will be favored.
  - Free and open-source mods are favored.
 
-This list now has a fancy URL: https://lambdaurora.dev/optifine_alternatives
-
 ### Contribute
 
-You can contribute to this list by opening a pull request on the `data` branch via [GitHub](https://github.com/LambdAurora/optifine_alternatives).
+You can contribute to this list by opening a pull request on the `data` branch via [GitHub](https://github.com/PseudoDistant/optifine_alternatives).
 
 ## Alternatives
 
