@@ -84,11 +84,6 @@ You can contribute to this list by opening a pull request on the `data` branch v
   - Available for: 1.16 -> 1.18  
 - [JsonEM (Json Entity Models)] - Data driven entity model library, should work with most entities. Does not support OptiFine's format.  
   - Available for: 1.18  
-- [LambdaBetterGrass] - Adds better grass and snow to the game.  
-  - Available for: 1.16 -> 1.18  
-  - Requires [Fabric Renderer API](#compatibility "More information.")  
-- [LambDynamicLights] - Adds dynamic lighting to the game.  
-  - Available for: 1.15 -> 1.18  
 - [More Block Predicates] - Allows resource packs to change block models depending on new conditions! Custom format.  
   - Available for: 1.17  
 - [MoreMcmeta] - Animate almost any Minecraft texture with more options.  
@@ -149,7 +144,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
   - Available for: 1.17 -> 1.18  
 - [Logical Zoom] - Super simple zoom key for Minecraft.  
   - Available for: 1.15 -> 1.18  
-- [Ok Zoomer] - Adds a highly-configurable zoom key for Fabric. The zoom is yours!  
+- [WI Zoom] - The zoom from the Wurst Client as a standalone mod. 
   - Available for: 1.14 -> 1.18  
 - [Quick Spyglasser] - Adds a client-side keybind for using a spyglass anywhere in your inventory.  
   - Available for: 1.17  
@@ -179,8 +174,6 @@ You can contribute to this list by opening a pull request on the `data` branch v
 [FabricSkyboxes]: https://modrinth.com/mod/fabricskyboxes "FabricSkyboxes Modrinth page"
 [JMX]: https://curseforge.com/minecraft/mc-mods/jmx "JMX CurseForge page"
 [JsonEM (Json Entity Models)]: https://modrinth.com/mod/jsonem "JsonEM (Json Entity Models) Modrinth page"
-[LambdaBetterGrass]: https://curseforge.com/minecraft/mc-mods/lambdabettergrass "LambdaBetterGrass CurseForge page"
-[LambDynamicLights]: https://curseforge.com/minecraft/mc-mods/lambdynamiclights "LambDynamicLights CurseForge page"
 [More Block Predicates]: https://modrinth.com/mod/mbp "More Block Predicates Modrinth page"
 [MoreMcmeta]: https://curseforge.com/minecraft/mc-mods/moremcmeta-fabric "MoreMcmeta CurseForge page"
 [Transparent]: https://curseforge.com/minecraft/mc-mods/transparent-fabric "Transparent CurseForge page"
@@ -202,7 +195,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 [Soaring Clouds]: https://curseforge.com/minecraft/mc-mods/soaring-clouds "Soaring Clouds CurseForge page"
 [Camera Utils]: https://curseforge.com/minecraft/mc-mods/camera-utils "Camera Utils CurseForge page"
 [Logical Zoom]: https://curseforge.com/minecraft/mc-mods/logical-zoom "Logical Zoom CurseForge page"
-[Ok Zoomer]: https://curseforge.com/minecraft/mc-mods/ok-zoomer "Ok Zoomer CurseForge page"
+[WI Zoom]: https://www.curseforge.com/minecraft/mc-mods/wi-zoom "CurseForge page"
 [Quick Spyglasser]: https://curseforge.com/minecraft/mc-mods/quick-spyglasser "Quick Spyglasser CurseForge page"
 [Zoomify]: https://curseforge.com/minecraft/mc-mods/zoomify "Zoomify CurseForge page"
 
