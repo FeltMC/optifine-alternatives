@@ -198,6 +198,7 @@ You can contribute to this list by opening a pull request on the `data` branch v
 [Camera Utils]: https://curseforge.com/minecraft/mc-mods/camera-utils "Camera Utils CurseForge page"
 [Logical Zoom]: https://curseforge.com/minecraft/mc-mods/logical-zoom "Logical Zoom CurseForge page"
 [WI Zoom]: https://www.curseforge.com/minecraft/mc-mods/wi-zoom "CurseForge page"
+[Fabricated Zoomer]: https://www.curseforge.com/minecraft/mc-mods/fabricated-zoomer "CurseForge Page"
 [Quick Spyglasser]: https://curseforge.com/minecraft/mc-mods/quick-spyglasser "Quick Spyglasser CurseForge page"
 [Zoomify]: https://curseforge.com/minecraft/mc-mods/zoomify "Zoomify CurseForge page"
 
