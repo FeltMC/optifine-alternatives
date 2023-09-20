@@ -146,6 +146,8 @@ You can contribute to this list by opening a pull request on the `data` branch v
   - Available for: 1.15 -> 1.18  
 - [WI Zoom] - The zoom from the Wurst Client as a standalone mod. 
   - Available for: 1.14 -> 1.18  
+- [Fabricated Zoomer] - Adds a highly-configurable zoom key for Fabric. The zoom is yours! 
+  - Available for: 1.20
 - [Quick Spyglasser] - Adds a client-side keybind for using a spyglass anywhere in your inventory.  
   - Available for: 1.17  
 - [Zoomify] - A rather simple zoom mod with moderate customizability.  
